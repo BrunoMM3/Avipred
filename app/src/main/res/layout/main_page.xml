@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00BCD4"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        tools:layout_editor_absoluteX="257dp"
+        tools:layout_editor_absoluteY="59dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Letargo"
+        android:textColor="#020202"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="138dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fiebre"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView"
+        tools:layout_editor_absoluteX="220dp"
+        tools:layout_editor_absoluteY="138dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Secreción nasal"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView"
+        tools:layout_editor_absoluteX="22dp"
+        tools:layout_editor_absoluteY="234dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Secreción Ocular"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView"
+        tools:layout_editor_absoluteX="203dp"
+        tools:layout_editor_absoluteY="234dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dificultad respiratoria"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="336dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tos por min"
+        android:textColor="#050505"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="418dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Perdida de apetito"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView"
+        tools:layout_editor_absoluteX="220dp"
+        tools:layout_editor_absoluteY="336dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Estornudos por min"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView"
+        tools:layout_editor_absoluteX="257dp"
+        tools:layout_editor_absoluteY="418dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Perdida de peso"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        tools:layout_editor_absoluteX="61dp"
+        tools:layout_editor_absoluteY="59dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:foregroundTint="#000000"
+
+        android:text="Decaimiento"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/button2"
+        tools:layout_editor_absoluteX="123dp"
+        tools:layout_editor_absoluteY="612dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GENERAR" />
+
+
+</LinearLayout>
